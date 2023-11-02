@@ -77,25 +77,22 @@ plt.title("Customer Segments")
 
 ## Output:
 
-### data.head():
+### data.head() FUNCTION:
 ![1](https://github.com/Divya110205/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119404855/29b517aa-d654-45ec-8344-ebad73bbb8cc)
 
 ### data.info():
 ![2](https://github.com/Divya110205/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119404855/d944a753-c9a9-4c44-9c57-9abfa68a72cb)
 
-### NULL VALUES:
+### data.isnull().sum() FUNCTION:
 ![3](https://github.com/Divya110205/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119404855/6cf1555f-473f-47ae-ae14-421c5d72bbed)
 
-### ELBOW GRAPH:
+### ELBOW METHOD GRAPH:
 ![4](https://github.com/Divya110205/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119404855/5a9e75f1-300f-499f-8a42-02d8d0d19016)
 
-### CLUSTER FORMATION:
+### K-MEANS CLUSTERS:
 ![5](https://github.com/Divya110205/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119404855/90c8cc59-476e-45bd-9d23-de3818a610fe)
 
-### PREDICICTED VALUE:
-![6](https://github.com/Divya110205/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119404855/3a75cc0c-12b6-41a2-92dd-9c04bf5b8a18)
-
-### FINAL GRAPH:
+### CUSTOME SEGMENTS GRAPH:
 ![7](https://github.com/Divya110205/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119404855/0492e693-1150-4c60-9983-c30c34880890)
 
 ## Result:
